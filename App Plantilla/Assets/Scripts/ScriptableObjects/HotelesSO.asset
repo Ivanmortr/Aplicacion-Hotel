@@ -1,0 +1,255 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560e5200ded80094080210811ed86d72, type: 3}
+  m_Name: HotelesSO
+  m_EditorClassIdentifier: 
+  _hotels:
+  - nombreHotel: MOON PALACE
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: RIVIERA CANCUN
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: MARRIOT COURTYARD
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: WET'N'WILD
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: CLUB MEDITERRANE
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: WESTING REGINA RESORT
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: LAHIA CONDOS
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: MARINA NIZUC
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: SUN PALACE
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: BELLE VUE BEACH PARADISE YALMAKAN
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: BEL AIR
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: CANCUN PLAZA
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: ROYAL SOLARIS CANCUN
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: SOLYMAR
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: OASIS SENS
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: GR SOLARIS
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: CROWN PARADISE CLUB
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: PLAYA DELFINES
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: IBEROSTAR CANCUN
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: GREAT PARNAUSSUS
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: THE ROYAL ISLANDER
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: THE ROYAL CARIBBEAN
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: ROYAL MAYAN
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: MUSEO MAYA CANCUN
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: OMNI CANCUN HOTEL & VILLAS
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: OASIS GRAND CANCUN
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: OASIS CANCUN
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: FIESTA AMERICANA CONDESA
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: PARADISSUS CANCUN
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: MARRIOT CASA MAGNA
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: JW MARRIOT
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: HARD ROCK HOTEL CANCUN
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: SECRETS THE VINE CANCUN
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: SANDOS CANCUN
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: GOLDEN PARNASSUS
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: THE RITZ CARLTON
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: ROYAL SANDS
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: CASA TURQUESA
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: BARCELO TUCAN CUN BEACH
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: PLAZA KUKULCAN
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: POLICIA / POLICE
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
+  - nombreHotel: 
+    tiempoTraslado: 15
+    imagenHotel: {fileID: 0}
