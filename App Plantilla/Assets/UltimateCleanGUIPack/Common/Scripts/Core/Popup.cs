@@ -24,7 +24,6 @@ namespace UltimateClean
         {
             AddBackground();
         }
-
         public void Close()
         {
             var animator = GetComponent<Animator>();
